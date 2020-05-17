@@ -1,0 +1,11 @@
+Package: wps-office-mui-pt
+Version: 0.0.1
+Installed-Size: 12618
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Section: localization
+Architecture: all
+Priority: optional
+Homepage: https://github.com/winunix
+Description: Interface em pt e pt_BR para WPS Office.
+ Este pacote é um fork do projeto de HenriqueAD:
+ Apoie seu projeto, SISTEMATICAMENTE!, em "www.youtube.com/OSistematico".
